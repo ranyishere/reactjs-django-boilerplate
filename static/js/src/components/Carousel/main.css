@@ -1,0 +1,12 @@
+/*
+ * Main scss
+ */
+.main-carousel {
+  background-color: "#000000";
+}
+.main-carousel img {
+  width: 500px;
+  height: 500px;
+}
+
+/*# sourceMappingURL=main.scss.map */

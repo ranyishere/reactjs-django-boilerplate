@@ -1,0 +1,11 @@
+/*
+ * Main scss
+ */
+
+.images{
+  display:inline-block;
+  width:100px;
+  height:133px;
+  overflow:hidden;
+  vertical-align:top
+}
